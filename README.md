@@ -1,2 +1,0 @@
-# mingbl.github.io
-Portfolio
