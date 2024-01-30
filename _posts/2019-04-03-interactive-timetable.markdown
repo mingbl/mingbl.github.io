@@ -2,7 +2,7 @@
 layout: post
 title: "Interactive Timetable Web App"
 featured: "/assets/timetable/timetable-wide-og.png"
-categories: project, archive
+categories: project
 ---
 
 An interactive web app created to support students studying through distance education.
