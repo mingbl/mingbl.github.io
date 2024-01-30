@@ -4,7 +4,7 @@
 .site-header {
   // border-top: 5px solid $grey-color-dark;
   border-bottom: 1px solid $grey-color-light;
-  min-height: $spacing-unit * 1.865;
+  min-height: calc($spacing-unit * 1.865);
 
   background-color: $brand-color-primary;
   background-image: linear-gradient(135deg, $brand-color-primary 50%, #224390 50%);
@@ -55,7 +55,7 @@
   @include media-query($on-palm) {
     position: absolute;
     top: 9px;
-    right: $spacing-unit / 2;
+    right: calc($spacing-unit / 2);
     // background-color: $background-color;
     background-color: $brand-color-primary;
     border: 1px solid $brand-color-primary;
@@ -120,7 +120,7 @@
 
 .footer-heading {
   @include relative-font-size(1.125);
-  margin-bottom: $spacing-unit / 2;
+  margin-bottom: calc($spacing-unit / 2);
 }
 
 .contact-list,
@@ -132,14 +132,14 @@
 .footer-col-wrapper {
   @include relative-font-size(0.9375);
   color: $grey-color;
-  margin-left: -$spacing-unit / 2;
+  margin-left: -calc($spacing-unit / 2);
   @extend %clearfix;
 }
 
 .footer-col {
   float: left;
-  margin-bottom: $spacing-unit / 2;
-  padding-left: $spacing-unit / 2;
+  margin-bottom: calc($spacing-unit / 2);
+  padding-left: calc($spacing-unit / 2);
 }
 
 .footer-col-1 {
