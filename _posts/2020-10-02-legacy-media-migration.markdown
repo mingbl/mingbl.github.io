@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Legacy Media Data Migration Project"
-featured: "/assets/flash-project/01-initial-separate-datasets.png"
+featured: "/assets/flash-project/legacy-heading.png"
 categories: project
 ---
 
@@ -9,7 +9,8 @@ A data migration project: transforming multiple separate data sets of legacy med
 
 # Adobe Flash media archival project
 
-![Screenshot of the initial separate datasets with inconsistencies](/assets/flash-project/01-initial-separate-datasets.png)
+![Representation of before and after data migration](/assets/flash-project/legacy-heading.png)
+_Representation of before and after data migration_
 
 From 2005 to 2017, the library of music for a now-defunct popular online game platform was encoded as Adobe Flash ‘SWF’ files. In 2020, support for Adobe Flash was discontinued, resulting in the inability to access or play music stored in this codec.
 
@@ -57,7 +58,11 @@ _A collection of unique music tracks, after duplicate files are removed and sepa
 ![JSON data set of the collection of unique music tracks (Excerpt)](/assets/flash-project/07-matched-with-original-cp-ids.png)
 _JSON data set of the collection of unique music tracks (Excerpt)_
 
-A third data set containing information on the usage of each track was incorporated into the final resulting data set containing music track information and MP3 files.
+A third data set containing information on the usage of each track was restructured into JSON.
+Each 'party' has a list of tracks used. Using the track ID, the respective audio file can be retrieved.
+
+![Final data sets: tracks and parties (Excerpts)](/assets/flash-project/tracks_parties.webp)
+_Final data sets: tracks and parties (Excerpts)_
 
 ## Summary
 
