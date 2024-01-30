@@ -20,6 +20,6 @@ _Demo of the image caption generator_
 
 Developed with HTML, JavaScript, and CSS, primarily using JavaScript's Canvas API.
 
-Demo: <https://mingbl.github.io/image-caption-generator>
+Demo: <https://mingbl.com/image-caption-generator>
 
 Source code: <https://github.com/mingbl/image-caption-generator>

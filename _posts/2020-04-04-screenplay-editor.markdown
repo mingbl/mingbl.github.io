@@ -30,6 +30,6 @@ The 'Share Script' button appends the content of the script to the URL, allowing
 
 Developed with HTML, JavaScript, and CSS.
 
-Demo: <https://mingbl.github.io/screenplay-editor>
+Demo: <https://mingbl.com/screenplay-editor>
 
 Source code: <https://github.com/mingbl/screenplay-editor>

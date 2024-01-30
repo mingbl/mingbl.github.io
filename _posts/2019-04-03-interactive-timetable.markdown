@@ -41,6 +41,6 @@ _Data as saved in local storage_
 
 Developed with HTML, JavaScript, and CSS.
 
-Demo: <https://mingbl.github.io/interactive-timetable>
+Demo: <https://mingbl.com/interactive-timetable>
 
 Source code: <https://github.com/mingbl/interactive-timetable>
