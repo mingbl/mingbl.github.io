@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hi there! I'm Ming B. Leong. I'm a Chinese Australian full-stack developer, database manager, filmmaker, and graphics designer. I have over eight years of experience designing websites and developing software, and have recently completed a Bachelor of Information and Communications Technology from the University of the Sunshine Coast.
+Hi there! I'm Ming B. Leong. I'm a Chinese Australian full-stack developer, database manager, filmmaker, and graphics designer. I have a Bachelor of Information and Communications Technology from the University of the Sunshine Coast, and 8+ years of experience designing websites and developing software.
 
 ![](/assets/ict-presentation.jpg)
 
